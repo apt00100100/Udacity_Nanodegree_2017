@@ -1,0 +1,17 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+1. I’ve used a few HTML tags that I haven’t used prior, that includes the <figure>, and <s> tags. For the most part this is all review.
+
+2. I’ve found the whole course thus far to be fairly simple and straight forward. Hoping it’ll continue as such as I start learning some new concepts.
+
+3. The only issue I’ve had up to this point was getting the Udacity Extension to work. I had to “Allow access to file URLs” in order to get it working from the Settings in chrome. Not a big issue but I was stuck for a moment.
+
+4. I used the MDN website with all HTML elements to assist in this activity. It’s very simple to find what I should use. I’d also like to call out the “deprecated” tags in HTML and how easy it is to use something like <strike> when it should be <s>.
